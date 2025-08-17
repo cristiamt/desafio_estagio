@@ -4,7 +4,7 @@
 
 Esta aplicação foi desenvolvida como parte do desafio de estágio da empresa Mastera. É uma ferramenta interativa em Streamlit que guia pesquisadores da área da saúde na exploração de oportunidades tecnológicas, conforme solicitado no contexto fictício da empresa "SaúdeJá". O usuário insere um tema de pesquisa e a jornada apresenta artigos científicos, estudos genômicos e uma análise de oportunidades de inovação gerada por IA.
 
-**Link para a Aplicação Online:** [https://seu-app.streamlit.app]([https://seu-app.streamlit.app](https://desafio-mastera.streamlit.app/)
+**Link para a Aplicação Online:** [Desafio Mastera](https://desafio-mastera.streamlit.app/)
 
 ---
 
