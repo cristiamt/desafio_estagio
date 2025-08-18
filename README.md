@@ -25,3 +25,9 @@ Esta aplicação foi desenvolvida como parte do desafio de estágio da empresa M
 * **Interface:** Streamlit
 * **Banco de Dados:** PostgreSQL (via Supabase)
 * **Fontes de Dados:** GWAS Catalog, CORE API, Google Gemini API.
+
+---
+
+## Considerações sobre as APIs
+
+* **Limites de Cota da API do Gemini:** Esta aplicação utiliza a API do Google Gemini no seu plano gratuito ("free-tier") para as funcionalidades de tradução e análise de inovação. Este plano possui um limite de requisições diárias. Caso o limite seja atingido durante os testes, as funcionalidades de IA podem não retornar respostas temporariamente. A arquitetura do código está preparada para lidar com essas falhas sem quebrar a aplicação.
